@@ -58,7 +58,7 @@
 ## Установка
 Вы можете скачать [**Репозиторий**](https://github.com/MorinCerber/NotPixelNebes/) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
-git clone https://github.com/YarmolenkoD/notpixel.git
+git clone https://github.com/MorinCerber/NotPixelNebes/
 cd notpixel
 ```
 
@@ -86,9 +86,9 @@ python3 main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/notpixel >>> python3 main.py --action (1/2)
+~/NotPixelNebes >>> python3 main.py --action (1/2)
 # Or
-~/notpixel >>> python3 main.py -a (1/2)
+~/NotPixelNebes >>> python3 main.py -a (1/2)
 
 # 1 - Start drawing 🎨️
 # 2 - Creates a session 👨‍🎨
@@ -107,9 +107,9 @@ python main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/notpixel >>> python main.py --action (1/2)
+~/NotPixelNebes >>> python main.py --action (1/2)
 # Или
-~/notpixel >>> python main.py -a (1/2)
+~/NotPixelNebes >>> python main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
