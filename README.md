@@ -59,7 +59,7 @@
 Вы можете скачать [**Репозиторий**](https://github.com/MorinCerber/NotPixelNebes/) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
 git clone https://github.com/MorinCerber/NotPixelNebes.git
-cd notpixel
+cd NotPixelNebes
 ```
 
 Затем для автоматической установки введите:
